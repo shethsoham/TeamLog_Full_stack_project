@@ -1,7 +1,9 @@
 To start the client FrontEnd 
+
 npm start
 
 To Connect with the Backend part
+
 nodemon app.js
 
 
